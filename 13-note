@@ -1,0 +1,14 @@
+def circle(x,y,r);
+ t.up()
+ t.home()
+ t.forward(x)
+ t.left(90)
+ t.foward(y)
+ 
+ 
+ 
+t.home()
+t.clear()
+
+circle(0,0,100)
+circle(100,200,50)
